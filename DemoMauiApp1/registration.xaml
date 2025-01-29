@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DemoMauiApp1.registration"
+             Title="Registration">
+    
+
+    <Grid>
+        <Label 
+                Text="AutoSIze Cell"
+                TextColor="Wheat"
+                BackgroundColor="Green">
+
+        </Label>
+        <BoxView Color="Silver"
+                Grid.ColumnSpan="1"></BoxView>
+        <BoxView Color="White"
+    Grid.ColumnSpan="1"></BoxView>
+    </Grid>
+    
+</ContentPage>
